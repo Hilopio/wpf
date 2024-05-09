@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace Wpf_splines
+namespace CollectionList
 {
     /// <summary>
     /// Interaction logic for App.xaml
