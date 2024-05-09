@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace WpfTestData
+namespace Wpf_splines
 {
     /// <summary>
     /// Interaction logic for App.xaml
